@@ -1,0 +1,7 @@
+WebContent - emp폴더, basic에 insertResult.html
+			
+Java Resources - emp.controller, emp.dao, emp.dto, emp.service, fw패키지
+				- emp.controllerrecord : 뷰 분리하기전꺼 기록해둔것
+			
+		
+				

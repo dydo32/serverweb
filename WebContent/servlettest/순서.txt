@@ -1,0 +1,39 @@
+requestTest.jsp
+result.jsp
+*Java Resources에 basic패키지
+SendRedirectTest.java
+ForwardTest.java
+*emp폴더에 insertResult.jsp
+*emp.controller에 EmpInsertServlet.java forward로 수정
+
+*Java Resources에 basic패키지
+IncludeTest.java
+
+*jspbasic2폴더
+
+
+
+
+
+*servlettest폴더
+cookieStart.jsp
+*src basic패키지에 
+SetCookieServlet.java
+GetCookieServlet.java
+*servlettest폴더
+cookieResult.jsp
+
+
+*servlettest폴더
+session_start.jsp
+ses_first.jsp
+*java basic패키지에
+SessionTest.java
+
+*servlettest폴더
+cart.jsp
+*java basic패키지에
+ShoppingCart.java
+
+
+			

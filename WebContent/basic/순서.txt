@@ -1,0 +1,24 @@
+servletRequestTest.html
+FirstServlet.java
+SecondServlet.java
+GuGuServlet.java
+LifeCycleTestServlet.java
+servletRequestTest.html
+paramTest.html
+ParamTestServlet.java
+PostForm.html
+PostFormServlet.java
+MultiCheck.html
+MultiCheckServlet.java
+calc.html
+Calc.java
+CalcServlet.java
+PostFrom.html(과제)
+FormServlet.java(과제)
+
+login.jsp
+register.html
+emp폴더만들어서 두개 넣어주고 
+images들도 넣어주고 
+src에 emp 패키지들 만들어줌
+web-inf에 lib에 ojdbc6.jar만들어줌
