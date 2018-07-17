@@ -27,6 +27,7 @@ cookieResult.jsp
 *servlettest폴더
 session_start.jsp
 ses_first.jsp
+ses_second.jsp
 *java basic패키지에
 SessionTest.java
 
