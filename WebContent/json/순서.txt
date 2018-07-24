@@ -1,0 +1,3 @@
+json_obj.jsp	//자바스크립트 객체 선언
+json_test.jsp	//json이려면 "" //자바스크립트에서의 JSON객체의 표현
+json_parse.jsp	//json을 텍스트형태로 전달받은 경우
