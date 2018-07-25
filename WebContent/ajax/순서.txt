@@ -2,3 +2,10 @@ AjaxFirstTest.java
 NotAjaxServlet.java
 notajax.jsp
 ajaxtest01.jsp
+
+ajaxgugu.jsp
+AjaxGuGuServlet.java
+ajaxtest01_post.jsp
+AjaxFirstTest_POST.java
+
+tree.jsp
