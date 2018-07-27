@@ -1,0 +1,10 @@
+log폴더만들기
+FileTestServlet.java
+upload폴더만들기
+
+upload.jsp
+FileUploadTestServlet.java
+uploadresult.jsp
+
+
+
